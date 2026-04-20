@@ -6,7 +6,7 @@ function App() {
       <h1>MY APP</h1>
 
       <Profile name="Yamuna" role="Software Developer" />
-      <Profile name="Honey" role="Engineer" />
+      <Profile name="Aladasu" role="Engineer" />
 
     </div>
   );
